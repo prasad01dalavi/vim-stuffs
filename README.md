@@ -15,3 +15,22 @@ dconf-editor
 
 
 3. Make xkb-options ['caps:swapescape']
+
+
+## Commands:
+```
++----------------------------------------------------
+
+
+
+Note: It is like Verb + Noun
+# Delete Word 
+dw
+
+# Execute the last command using period
+.
+
+# Undo the Changes
+u
+
+
