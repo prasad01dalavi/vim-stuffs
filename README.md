@@ -1,7 +1,7 @@
 # vim Configuration
 
 ## Setup:
-### Keyboard Hack(for Linux):
+### 1. Keyboard Hack(for Linux):
 1. Swap CapsLock and Esc
 
 
