@@ -50,11 +50,17 @@ Note: It is like Verb + Noun
 +----------+-----------------------------------------------------------------+
 |    di(   | Delete Inside the Brackets                                      |
 +----------+-----------------------------------------------------------------+
-|    dip   | Delete paragraph (which contains blank lines around             |
+|    dip   | Delete paragraph (para contains blank lines around)             |
 +----------+-----------------------------------------------------------------+
 |    yip   | Copy the whole paragraph from any place inside the paragraph    |
 +----------+-----------------------------------------------------------------+
-|    cip   | Change inside paragraph (Delete para and go into insert mode    |
+|    cip   | Change inside paragraph (Delete para and go into insert mode)   |
++----------+-----------------------------------------------------------------+
+|    viw   | Visualize (Hight-light) the current word                        |
++----------+-----------------------------------------------------------------+
+|    cs("  | Change Surrounding ( to "                                       |
++----------+-----------------------------------------------------------------+
+|   ysiw"  | Add Surrouding to inner word "                                  |
 +----------+-----------------------------------------------------------------+
 
 ```
