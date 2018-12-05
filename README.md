@@ -17,6 +17,21 @@ dconf-editor
 3. Make xkb-options ['caps:swapescape']
 
 
+### 2. Guake
+```
+# Install a Cool Terminal
+sudo apt-get install guake
+
+# Guake Error Fix
+gconftool-2 --install-schema-file=/usr/share/gconf/schemas/guake.schemas
+```
+
+### 2. vim Configuration:
+
+
+https://github.com/ets-labs/python-vimrc
+
+
 ## Commands:
 ```
 Note: It is like Verb + Noun
