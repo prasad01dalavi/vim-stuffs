@@ -31,6 +31,8 @@ gconftool-2 --install-schema-file=/usr/share/gconf/schemas/guake.schemas
 
 https://github.com/ets-labs/python-vimrc
 
+:colo ^d       # To get the available color schemes (so that we can save the setting in .vimrc)
+
 
 ## Commands:
 ```
